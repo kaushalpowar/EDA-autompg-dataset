@@ -51,5 +51,6 @@ Acknowledgements
 Dataset: UCI Machine Learning Repository
 Data link : https://archive.ics.uci.edu/ml/datasets/auto+mpg
 
-Inspiration
+Inspiration:
+
 I have used this dataset for practicing my exploratory analysis skills.
